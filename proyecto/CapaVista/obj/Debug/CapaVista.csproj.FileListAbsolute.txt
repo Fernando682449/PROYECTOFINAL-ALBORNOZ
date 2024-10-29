@@ -1,0 +1,43 @@
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\CapaDatos.dll
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\CapaDatos.pdb
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.Form1.resources
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\ASUS STRIX\Documents\Universidad\Sis.inf.3\CapaVista\obj\Debug\CapaVista.pdb
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\CapaVista.exe.config
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\CapaVista.exe
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\CapaVista.pdb
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\CapaDatos.dll
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\Newtonsoft.Json.dll
+D:\SISTEMAS DE INFORMACION III\CapaVista\bin\Debug\CapaDatos.pdb
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.Form1.resources
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.exe
+D:\SISTEMAS DE INFORMACION III\CapaVista\obj\Debug\CapaVista.pdb
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\CapaVista.exe.config
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\CapaVista.exe
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\CapaVista.pdb
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\CapaDatos.dll
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\Newtonsoft.Json.dll
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\bin\Debug\CapaDatos.pdb
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.Form1.resources
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.exe
+D:\SISTEMAS DE INFORMACION III\proyecto\CapaVista\obj\Debug\CapaVista.pdb
